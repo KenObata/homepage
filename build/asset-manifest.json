@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ken-obata.com/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ken-obata.com/static/js/main.fee5752b.chunk.js",
+    "main.js.map": "/ken-obata.com/static/js/main.fee5752b.chunk.js.map",
+    "runtime-main.js": "/ken-obata.com/static/js/runtime-main.4b7b3d15.js",
+    "runtime-main.js.map": "/ken-obata.com/static/js/runtime-main.4b7b3d15.js.map",
+    "static/js/2.d5616331.chunk.js": "/ken-obata.com/static/js/2.d5616331.chunk.js",
+    "static/js/2.d5616331.chunk.js.map": "/ken-obata.com/static/js/2.d5616331.chunk.js.map",
+    "static/js/3.2af122a7.chunk.js": "/ken-obata.com/static/js/3.2af122a7.chunk.js",
+    "static/js/3.2af122a7.chunk.js.map": "/ken-obata.com/static/js/3.2af122a7.chunk.js.map",
+    "index.html": "/ken-obata.com/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ken-obata.com/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d5616331.chunk.js.LICENSE.txt": "/ken-obata.com/static/js/2.d5616331.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ken-obata.com/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b7b3d15.js",
+    "static/js/2.d5616331.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.fee5752b.chunk.js"
+  ]
+}
